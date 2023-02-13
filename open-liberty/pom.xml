@@ -102,7 +102,7 @@
         <failOnMissingWebXml>false</failOnMissingWebXml>
         <!-- versions -->
         <version.jakarta.jakartaee-web-api>8.0.0</version.jakarta.jakartaee-web-api>
-        <version.microprofile>3.2</version.microprofile>
+        <version.microprofile>3.3</version.microprofile>
         <version.derby>10.14.2.0</version.derby>
         <version.liberty-maven-plugin>3.3-M3</version.liberty-maven-plugin>
         <version.maven-war-plugin>3.2.3</version.maven-war-plugin>
