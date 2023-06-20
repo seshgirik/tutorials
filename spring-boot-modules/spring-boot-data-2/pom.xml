@@ -41,7 +41,7 @@
     </dependencies>
 
     <properties>
-        <javers.version>6.5.3</javers.version>
+        <javers.version>7.0.1</javers.version>
     </properties>
 
 </project>
