@@ -71,7 +71,7 @@
         <httpsPort>9443</httpsPort>
         <nimbus-jose-jwt.version>7.3</nimbus-jose-jwt.version>
         <bcprov-jdk15on.version>1.62</bcprov-jdk15on.version>
-        <bcpkix-jdk15on.version>1.62</bcpkix-jdk15on.version>
+        <bcpkix-jdk15on.version>1.69</bcpkix-jdk15on.version>
     </properties>
 
 </project>
