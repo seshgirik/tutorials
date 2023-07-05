@@ -1,2 +1,2 @@
-FROM ubuntu 
+FROM ubuntu:kinetic 
 ENTRYPOINT ["/bin/bash", "-c", "echo hello"]
