@@ -188,7 +188,7 @@
         <jsonb-api.version>1.0</jsonb-api.version>
         <geronimo-json_1.1_spec.version>1.0</geronimo-json_1.1_spec.version>
         <jetty-reactive-httpclient.version>1.1.6</jetty-reactive-httpclient.version>
-        <okhttp.version>4.0.1</okhttp.version>
+        <okhttp.version>4.10.0</okhttp.version>
         <reactor-test.version>3.2.10.RELEASE</reactor-test.version>
         <wiremock-standalone.version>2.26.0</wiremock-standalone.version>
     </properties>
