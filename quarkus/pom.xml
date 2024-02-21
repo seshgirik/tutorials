@@ -181,7 +181,7 @@
     </profiles>
 
     <properties>
-        <quarkus.version>1.7.0.Final</quarkus.version>
+        <quarkus.version>3.7.4</quarkus.version>
         <lombok.version>1.18.6</lombok.version>
         <mockito.version>3.3.0</mockito.version>
     </properties>
