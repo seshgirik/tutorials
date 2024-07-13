@@ -70,7 +70,7 @@
     </dependencies>
 
     <properties>
-        <bootstrap.version>5.1.1</bootstrap.version>
+        <bootstrap.version>5.3.3</bootstrap.version>
         <jquery.version>3.6.0</jquery.version>
     </properties>
 
