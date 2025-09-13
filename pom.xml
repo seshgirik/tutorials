@@ -259,7 +259,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                                 <pluginExecution>
@@ -278,7 +278,7 @@
                                         </goals>
                                     </pluginExecutionFilter>
                                     <action>
-                                        <ignore></ignore>
+                                        <ignore/>
                                     </action>
                                 </pluginExecution>
                             </pluginExecutions>
@@ -1363,7 +1363,7 @@
 
         <!-- logging -->
         <org.slf4j.version>1.7.32</org.slf4j.version>
-        <logback.version>1.2.6</logback.version>
+        <logback.version>1.2.13</logback.version>
 
         <!-- plugins -->
         <maven-surefire-plugin.version>2.22.2</maven-surefire-plugin.version>
@@ -1385,7 +1385,7 @@
         <jstl-api.version>1.2</jstl-api.version>
         <javax.servlet.jsp-api.version>2.3.1</javax.servlet.jsp-api.version>
         <jstl.version>1.2</jstl.version>
-        <jackson.version>2.13.0</jackson.version>
+        <jackson.version>2.13.4.1</jackson.version>
         <commons-fileupload.version>1.4</commons-fileupload.version>
         <junit-platform.version>1.8.1</junit-platform.version>
         <junit-jupiter.version>5.8.1</junit-jupiter.version>
@@ -1398,7 +1398,7 @@
         <maven-pmd-plugin.version>3.13.0</maven-pmd-plugin.version>
         <lombok.version>1.18.20</lombok.version>
         <h2.version>1.4.200</h2.version>
-        <guava.version>31.0.1-jre</guava.version>
+        <guava.version>32.0.0-jre</guava.version>
     </properties>
 
 </project>
