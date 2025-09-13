@@ -106,7 +106,7 @@
                         <argument>-Xmx300m</argument>
                         <argument>-XX:+UseParallelGC</argument>
                         <argument>-classpath</argument>
-                        <classpath />
+                        <classpath/>
                         <argument>com.baeldung.outofmemoryerror.OutOfMemoryGCLimitExceed</argument>
                     </arguments>
                 </configuration>
@@ -170,7 +170,7 @@
                                     <executable>java</executable>
                                     <arguments>
                                         <argument>-classpath</argument>
-                                        <classpath />
+                                        <classpath/>
                                         <argument>org.openjdk.jmh.Main</argument>
                                         <argument>.*</argument>
                                     </arguments>
@@ -192,7 +192,7 @@
         <maven-javadoc-plugin.version>3.0.0-M1</maven-javadoc-plugin.version>
         <source.version>1.8</source.version>
         <target.version>1.8</target.version>
-        <spring.core.version>4.3.20.RELEASE</spring.core.version>
+        <spring.core.version>6.1.14</spring.core.version>
         <gdata.version>1.47.1</gdata.version>
     </properties>
 
