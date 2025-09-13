@@ -170,7 +170,7 @@
         <!-- Spring -->
         <org.springframework.security.version>4.2.6.RELEASE</org.springframework.security.version>
         <!-- persistence -->
-        <postgresql.version>9.4.1212</postgresql.version>
+        <postgresql.version>42.7.2</postgresql.version>
         <!-- Maven plugins -->
         <cargo-maven2-plugin.version>1.6.1</cargo-maven2-plugin.version>
         <spring-boot.version>1.5.10.RELEASE</spring-boot.version>
