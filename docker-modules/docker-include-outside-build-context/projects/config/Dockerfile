@@ -1,2 +1,2 @@
-FROM nginx:latest
+FROM nginx:1.29.4-trixie
 COPY nginx.conf /etc/nginx/nginx.conf
